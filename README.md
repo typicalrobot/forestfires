@@ -1,5 +1,4 @@
 # forestfires
-ASU IFT 598 Managing Intelligent Devices for IOT Lab 10
 
 
 This project will help users predict the likelihood of forest fires in different months, facilitating proactive measures and planning for forest fire prevention and management, thus potentially reducing the devastating impacts of these fires.
